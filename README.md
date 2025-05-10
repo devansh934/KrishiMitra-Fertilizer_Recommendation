@@ -18,6 +18,21 @@ Soil Type: The type of soil at the location.
 Crop Type: The type of crop to be grown.
 Fertilizer Names: The names of different types of fertilizers.
 
+
+## 📸 Demo
+
+Here’s what the application looks like:
+
+![image](https://github.com/user-attachments/assets/43fb55a1-77bf-4728-9a1e-a6374fdca477)
+
+
+
+
+
+> 📌 Replace `demo-screenshot.png` with your actual screenshot file.
+
+---
+
 # Main Python Script using Flask
 The main functionality of this project is implemented in a Python script using Flask, a web framework. The script serves as the backend for the web-based fertilizer recommendation system. It takes input from users regarding soil and environmental conditions and provides fertilizer recommendations based on the algorithm used.
 
